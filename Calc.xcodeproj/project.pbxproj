@@ -240,6 +240,8 @@
 		D5D94FFE1435750B00ABC9EA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_OBJCPP_ARC_ABI = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Calc/Calc-Prefix.pch";
 				INFOPLIST_FILE = "Calc/Calc-Info.plist";
@@ -251,6 +253,8 @@
 		D5D94FFF1435750B00ABC9EA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_OBJCPP_ARC_ABI = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Calc/Calc-Prefix.pch";
 				INFOPLIST_FILE = "Calc/Calc-Info.plist";
@@ -278,6 +282,7 @@
 				D5D94FFF1435750B00ABC9EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
