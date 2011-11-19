@@ -1,10 +1,3 @@
-//
-//  Model.m
-//  Calc
-//
-//  Created by Shinya Amemiya on 9/30/11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
-//
 
 #import "Model.h"
 
